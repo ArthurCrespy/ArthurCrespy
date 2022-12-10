@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/ArthurCrespy">
-  <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
+  <img width="250" src="https://github.com/ArthurCrespy/ArthurCrespy/blob/master/network.gif" />
  </a>
 </p>
 
