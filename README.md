@@ -1,10 +1,4 @@
 <p align="center">
- <a href="https://github.com/ArthurCrespy">
-  <img width="250" src="https://github.com/ArthurCrespy/ArthurCrespy/blob/master/network.gif" />
- </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ArthurCrespy?tab=repositories">
     <img alt="repositories" src="https://img.shields.io/badge/2-Repositories-white?style=for-the-badge&logo=github&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
